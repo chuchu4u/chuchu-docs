@@ -1,0 +1,2 @@
+# chuchu-docs
+Chuchu Wiki
